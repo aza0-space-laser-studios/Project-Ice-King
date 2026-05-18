@@ -1,0 +1,42 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Coral_Bush_Cyan.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Fire_Coral_Bush.png",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Water/Coral_Bush.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Fire_Coral_Bush.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#d84714",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "Material": "Empty",
+    "RandomRotation": "YawStep1",
+    "BlockParticleSetId": "Leaves_Branches",
+    "MaxSupportDistance": 5,
+    "BlockSoundSetId": "Bush"
+  },
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      5,
+      -21
+    ]
+  },
+  "Texture": "Resources/Fire_Coral_Bush.png",
+  "UsePlayerAnimations": false,
+  "Interactions": {
+    "Primary": "Fire_Coral_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage"
+}

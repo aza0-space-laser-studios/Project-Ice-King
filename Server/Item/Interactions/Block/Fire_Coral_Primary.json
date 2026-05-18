@@ -1,0 +1,5 @@
+{
+  "Type": "PlaceFluid",
+  "RemoveItemInHand": true,
+  "FluidToPlace": "Fire"
+}
