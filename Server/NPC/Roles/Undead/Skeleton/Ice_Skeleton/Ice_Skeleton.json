@@ -1,0 +1,35 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Aggressive_Zombies",
+  "Modify": {
+    "DropList": "Ice_Skeleton",
+    "Appearance": "Ice_Skeleton",
+    "AttackSequence": "Component_Instruction_Attack_Sequence_Zombie_Frost",
+    "MaxHealth": 20,
+    "IsMemory": true,
+    "MemoriesCategory": "Undead",
+    "_InteractionVars": {
+      "Melee_Damage": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Melee_Damage",
+            "DamageCalculator": {
+              "BaseDamage": {
+                "Physical": 20
+              }
+            }
+          }
+        ]
+      }
+    },
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Zombie_Frost.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}
