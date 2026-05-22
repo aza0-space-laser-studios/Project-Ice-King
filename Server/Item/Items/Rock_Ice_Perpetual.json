@@ -42,7 +42,7 @@
       "Ice",
       "Gravel"
     ],
-    "ParticleColor": "#5b5bff",
+    "ParticleColor": "#a0a0ff",
     "TransitionToTag": "Fluid=Water",
     "CubeShadingMode": "Standard",
     "Opacity": "Solid",
@@ -51,20 +51,23 @@
         "Texture": "Resources/Rock_Ice_Perpetual.png"
       }
     ],
-    "Particles": [
-      {
-        "SystemId": "Example_Shield",
-        "Color": "#c4ebff",
-        "TargetNodeName": "cube",
-        "Scale": 0.6
-      }
-    ],
     "State": {
       "Definitions": {
         "placed": {}
       }
     },
-    "CustomModel": "Resources/Textures/Perpetual_Ice.blockymodel"
+    "CustomModel": "Resources/Textures/Perpetual_Ice.blockymodel",
+    "Light": {
+      "Color": "#ccf",
+      "Radius": 1
+    },
+    "Particles": [
+      {
+        "SystemId": "Example_Glow_Square",
+        "TargetNodeName": "cube",
+        "Color": "#8885ff"
+      }
+    ]
   },
   "ResourceTypes": [
     {

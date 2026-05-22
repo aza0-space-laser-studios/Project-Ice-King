@@ -1,0 +1,5886 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -7,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -8,
+      "name": "*Wood_Torch_Wall_State_Definitions_Off"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -6,
+      "name": "Furniture_Ancient_Bookshelf"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 1,
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 2,
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 6,
+      "name": "Furniture_Human_Ruins_Bookshelf",
+      "support": 3,
+      "rotation": 2
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Stone_Brick"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -7,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

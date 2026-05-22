@@ -2072,6 +2072,12 @@
     },
     {
       "x": -10,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -10,
       "y": 15,
       "z": -2,
       "name": "Rock_Stone_Brick"
@@ -2516,6 +2522,12 @@
     },
     {
       "x": -9,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -9,
       "y": 15,
       "z": -1,
       "name": "Rock_Stone_Brick"
@@ -2531,12 +2543,6 @@
       "y": 1,
       "z": 0,
       "name": "Rock_Ice_Permafrost"
-    },
-    {
-      "x": -9,
-      "y": 2,
-      "z": 0,
-      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
     },
     {
       "x": -9,
@@ -2936,12 +2942,6 @@
     },
     {
       "x": -8,
-      "y": 1,
-      "z": -3,
-      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
-    },
-    {
-      "x": -8,
       "y": 15,
       "z": -3,
       "name": "Rock_Stone_Brick"
@@ -3011,12 +3011,6 @@
       "y": 1,
       "z": 1,
       "name": "Rock_Ice_Permafrost"
-    },
-    {
-      "x": -8,
-      "y": 2,
-      "z": 1,
-      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
     },
     {
       "x": -8,
@@ -3410,6 +3404,12 @@
     },
     {
       "x": -7,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
+    },
+    {
+      "x": -7,
       "y": 15,
       "z": -2,
       "name": "Rock_Stone_Brick"
@@ -3461,6 +3461,12 @@
       "y": 1,
       "z": 1,
       "name": "Rock_Ice_Permafrost"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 1,
+      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
     },
     {
       "x": -7,
@@ -3875,12 +3881,6 @@
       "y": 0,
       "z": -1,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -6,
-      "y": 1,
-      "z": -1,
-      "name": "Furniture_Frozen_Castle_Secondary_Lamp"
     },
     {
       "x": -6,
@@ -7146,7 +7146,7 @@
       "x": 0,
       "y": 3,
       "z": -10,
-      "name": "*Wood_Torch_Wall_State_Definitions_Off"
+      "name": "Wood_Torch_Wall"
     },
     {
       "x": 0,
@@ -7500,7 +7500,7 @@
       "x": 0,
       "y": 3,
       "z": 10,
-      "name": "*Wood_Torch_Wall_State_Definitions_Off",
+      "name": "Wood_Torch_Wall",
       "rotation": 2
     },
     {
@@ -10375,12 +10375,6 @@
       "y": 0,
       "z": -9,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 6,
-      "y": 2,
-      "z": -9,
-      "name": "*Wood_Torch_Wall_State_Definitions_Off"
     },
     {
       "x": 6,
@@ -16913,6 +16907,13 @@
     },
     {
       "x": -10,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -10,
       "y": 15,
       "z": -2,
       "name": "Empty",
@@ -17431,6 +17432,13 @@
     },
     {
       "x": -9,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -9,
       "y": 15,
       "z": -1,
       "name": "Empty",
@@ -17446,13 +17454,6 @@
     {
       "x": -9,
       "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -9,
-      "y": 2,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -17921,13 +17922,6 @@
     },
     {
       "x": -8,
-      "y": 1,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -8,
       "y": 15,
       "z": -3,
       "name": "Empty",
@@ -18006,13 +18000,6 @@
     {
       "x": -8,
       "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -8,
-      "y": 2,
       "z": 1,
       "name": "Empty",
       "level": 0
@@ -18474,6 +18461,13 @@
     },
     {
       "x": -7,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
       "y": 15,
       "z": -2,
       "name": "Empty",
@@ -18531,6 +18525,13 @@
     {
       "x": -7,
       "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
+      "y": 2,
       "z": 1,
       "name": "Empty",
       "level": 0
@@ -19014,13 +19015,6 @@
     {
       "x": -6,
       "y": 0,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -6,
-      "y": 1,
       "z": -1,
       "name": "Empty",
       "level": 0
@@ -26399,13 +26393,6 @@
     {
       "x": 6,
       "y": 0,
-      "z": -9,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 6,
-      "y": 2,
       "z": -9,
       "name": "Empty",
       "level": 0

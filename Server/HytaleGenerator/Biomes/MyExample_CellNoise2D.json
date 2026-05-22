@@ -366,7 +366,7 @@
 			},
 			"QueueMaterialProvider-e2e728e3-1500-4a8a-9315-7865aeb2286a":	{
 				"$Position":	{
-					"$x":	-1532,
+					"$x":	-1555,
 					"$y":	-3947
 				}
 			},
@@ -390,8 +390,8 @@
 			},
 			"StripedMaterialProvider-3a9f6ce7-3805-4b5d-a08e-033b3705f733":	{
 				"$Position":	{
-					"$x":	-858,
-					"$y":	-3947
+					"$x":	-866,
+					"$y":	-4036
 				}
 			},
 			"ConstantMaterialProvider-68c9422d-378d-4079-8376-3d656ebc5991":	{
@@ -408,20 +408,20 @@
 			},
 			"StripeStripedMP-d91d5258-6026-4e4d-a4b2-e58b9aa270f2":	{
 				"$Position":	{
-					"$x":	-94,
-					"$y":	-3901
+					"$x":	-113,
+					"$y":	-4011
 				}
 			},
 			"ConstantMaterialProvider-a4f200d4-7756-4a62-8735-788fb4238a04":	{
 				"$Position":	{
-					"$x":	-876,
-					"$y":	-3682
+					"$x":	-838,
+					"$y":	-3482
 				}
 			},
 			"Material-a4e14cd8-d9ba-4007-8d2a-8dd4b12c1c61":	{
 				"$Position":	{
-					"$x":	-234,
-					"$y":	-3695
+					"$x":	-196,
+					"$y":	-3495
 				}
 			},
 			"QueueMaterialProvider-f419ef06-d4c4-49bf-885e-e4b36aea24b6":	{

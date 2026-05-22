@@ -11,13 +11,7 @@
         "Skeleton_Frost_Soldier_Axe_Swing_Up_Left"
       ],
       "Effects": {
-        "Particles": [
-          {
-            "SystemId": "Eye_Void_Smoke_Teal",
-            "TargetNodeName": "Jaw-Top",
-            "Color": "#a8a3ff"
-          }
-        ]
+        "Particles": []
       }
     }
   ],
