@@ -1,0 +1,13 @@
+{
+  "Type": "BlockCondition",
+  "Matchers": [
+    {
+      "Block": {
+        "Id": "Rock_Ice_Perpetual_Pink"
+      }
+    }
+  ],
+  "Next": {
+    "Type": "DestroyBlock"
+  }
+}

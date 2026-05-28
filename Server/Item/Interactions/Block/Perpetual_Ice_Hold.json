@@ -1,0 +1,11 @@
+{
+  "Type": "RunOnBlockTypes",
+  "Range": 1,
+  "MaxCount": 1,
+  "BlockSets": [
+    "Perpetual_Ice"
+  ],
+  "Next": {
+    "Type": "DestroyBlock"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Plant_Coral_Bush_Fire.name"
+    "Name": "server.items.Plant_Coral_Bush_Inferno.name"
   },
-  "Icon": "Icons/ItemsGenerated/Fire_Coral_Bush.png",
+  "Icon": "Icons/ItemsGenerated/Inferno_Coral_Bush.png",
   "BlockType": {
     "CustomModel": "Blocks/Foliage/Water/Coral_Bush.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Fire_Coral_Bush.png",
+        "Texture": "Resources/Inferno_Coral_Bush.png",
         "Weight": 1
       }
     ],
@@ -21,18 +21,18 @@
     "BlockSoundSetId": "Bush"
   },
   "IconProperties": {
-    "Scale": 0.4,
+    "Scale": 0.35,
     "Rotation": [
       22.5,
-      45,
+      37,
       22.5
     ],
     "Translation": [
-      5,
-      -21
+      6,
+      -28
     ]
   },
-  "Texture": "Resources/Fire_Coral_Bush.png",
+  "Texture": "Resources/Inferno_Coral_Bush.png",
   "UsePlayerAnimations": false,
   "Interactions": {
     "Primary": "Fire_Coral_Primary",

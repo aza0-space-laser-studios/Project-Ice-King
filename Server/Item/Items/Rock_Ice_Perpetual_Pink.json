@@ -2,7 +2,7 @@
   "TranslationProperties": {
     "Name": "server.items.Rock_Ice_Perpetual.name"
   },
-  "Icon": "Icons/ItemsGenerated/Rock_Ice_Perpetual.png",
+  "Icon": "Icons/ItemsGenerated/Rock_Ice_Perpetual_Pink.png",
   "Set": "Rock_Ice",
   "Categories": [
     "Blocks.Rocks"
@@ -15,8 +15,9 @@
     "Flags": {},
     "Gathering": {
       "Breaking": {
-        "DropList": "Rock_Ice",
-        "GatherType": "Rocks"
+        "DropList": "Rock_Ice_Perpetual",
+        "GatherType": "Rocks",
+        "Quality": 999
       }
     },
     "BlockParticleSetId": "Ice",
@@ -42,30 +43,26 @@
       "Ice",
       "Gravel"
     ],
-    "ParticleColor": "#a0a0ff",
+    "ParticleColor": "#e5abff",
     "TransitionToTag": "Fluid=Water",
     "CubeShadingMode": "Standard",
     "Opacity": "Solid",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Rock_Ice_Perpetual.png"
+        "Texture": "Resources/Perpetual_Ice_Pink.png"
       }
     ],
-    "State": {
-      "Definitions": {
-        "placed": {}
-      }
-    },
-    "CustomModel": "Resources/Textures/Perpetual_Ice.blockymodel",
+    "CustomModel": "Resources/Textures/Perpetual_Ice_Pink.blockymodel",
     "Light": {
-      "Color": "#ccf",
+      "Color": "#f3b",
       "Radius": 1
     },
     "Particles": [
       {
         "SystemId": "Example_Glow_Square",
         "TargetNodeName": "cube",
-        "Color": "#8885ff"
+        "Color": "#ffa6c2",
+        "Scale": 2
       }
     ]
   },
@@ -92,5 +89,12 @@
     ]
   },
   "ItemSoundSetId": "ISS_Blocks_Stone",
-  "State": {}
+  "State": {},
+  "Tool": {
+    "Specs": [
+      {}
+    ]
+  },
+  "Model": "Resources/Textures/Perpetual_Ice_Pink.blockymodel",
+  "Texture": "Resources/Perpetual_Ice_Pink.png"
 }

@@ -571,33 +571,15 @@
     },
     {
       "x": -13,
-      "y": 0,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": -13,
       "y": 15,
       "z": 8,
       "name": "Rock_Stone_Brick"
     },
     {
       "x": -13,
-      "y": 0,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -13,
       "y": 15,
       "z": 9,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -13,
-      "y": 0,
-      "z": 10,
-      "name": "Empty"
     },
     {
       "x": -13,
@@ -2078,6 +2060,12 @@
     },
     {
       "x": -10,
+      "y": 1,
+      "z": -3,
+      "name": "Deco_Book_Pile_Large"
+    },
+    {
+      "x": -10,
       "y": 15,
       "z": -3,
       "name": "Rock_Stone_Brick"
@@ -2098,37 +2086,43 @@
       "x": -10,
       "y": 0,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -10,
       "y": 15,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -10,
       "y": 0,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -10,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -10,
       "y": 15,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -10,
       "y": 0,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -10,
       "y": 15,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -10,
@@ -2432,6 +2426,12 @@
     },
     {
       "x": -9,
+      "y": 1,
+      "z": -8,
+      "name": "Deco_Book_Pile_Large"
+    },
+    {
+      "x": -9,
       "y": 15,
       "z": -8,
       "name": "Rock_Stone_Brick"
@@ -2500,61 +2500,67 @@
       "x": -9,
       "y": 0,
       "z": -2,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 15,
       "z": -2,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 0,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 15,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 0,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -9,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 15,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 0,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 15,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 0,
       "z": 2,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
       "y": 15,
       "z": 2,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -9,
@@ -2932,37 +2938,43 @@
       "x": -8,
       "y": 0,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -8,
       "y": 15,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -8,
       "y": 0,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -8,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -8,
       "y": 15,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -8,
       "y": 0,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -8,
       "y": 15,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Purple"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -8,
@@ -3029,6 +3041,13 @@
       "y": 0,
       "z": 7,
       "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": 7,
+      "name": "Deco_Book_Pile_Large",
+      "rotation": 2
     },
     {
       "x": -8,
@@ -3374,6 +3393,12 @@
     },
     {
       "x": -7,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
       "y": 15,
       "z": 0,
       "name": "Rock_Stone_Brick"
@@ -3443,6 +3468,13 @@
       "y": 0,
       "z": 6,
       "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": -7,
+      "y": 1,
+      "z": 6,
+      "name": "Deco_Book_Pile_Large",
+      "rotation": 2
     },
     {
       "x": -7,
@@ -3836,12 +3868,6 @@
     },
     {
       "x": -6,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -6,
       "y": 15,
       "z": 2,
       "name": "Rock_Stone_Brick"
@@ -4676,12 +4702,6 @@
     },
     {
       "x": -4,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -4,
       "y": 15,
       "z": -1,
       "name": "Rock_Stone_Brick"
@@ -4709,12 +4729,6 @@
       "y": 0,
       "z": 1,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -4,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": -4,
@@ -5132,30 +5146,6 @@
     },
     {
       "x": -3,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
       "y": 15,
       "z": -1,
       "name": "Rock_Stone_Brick"
@@ -5165,30 +5155,6 @@
       "y": 0,
       "z": 0,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": -3,
@@ -5210,12 +5176,6 @@
     },
     {
       "x": -3,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
       "y": 15,
       "z": 1,
       "name": "Rock_Stone_Brick"
@@ -5228,12 +5188,6 @@
     },
     {
       "x": -3,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -3,
       "y": 15,
       "z": 2,
       "name": "Rock_Stone_Brick"
@@ -5243,12 +5197,6 @@
       "y": 0,
       "z": 3,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 3,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": -3,
@@ -5636,12 +5584,6 @@
     },
     {
       "x": -2,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
       "y": 15,
       "z": -2,
       "name": "Rock_Stone_Brick"
@@ -5654,30 +5596,6 @@
     },
     {
       "x": -2,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
-      "y": 2,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
       "y": 15,
       "z": -1,
       "name": "Rock_Stone_Brick"
@@ -5685,84 +5603,6 @@
     {
       "x": -2,
       "y": 0,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 2,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 10,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 11,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 12,
-      "z": 0,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 13,
       "z": 0,
       "name": "Rock_Stone_Brick"
     },
@@ -5786,30 +5626,6 @@
     },
     {
       "x": -2,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
-      "y": 2,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -2,
       "y": 15,
       "z": 1,
       "name": "Rock_Stone_Brick"
@@ -5819,12 +5635,6 @@
       "y": 0,
       "z": 2,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": -2,
@@ -6236,30 +6046,6 @@
     },
     {
       "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
       "y": 15,
       "z": -1,
       "name": "Rock_Stone_Brick"
@@ -6269,133 +6055,24 @@
       "y": 0,
       "z": 0,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 10,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 11,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 12,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
-    },
-    {
-      "x": -1,
-      "y": 13,
-      "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
     },
     {
       "x": -1,
       "y": 14,
       "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -1,
       "y": 15,
       "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": -1,
       "y": 0,
       "z": 1,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": -1,
@@ -6408,12 +6085,6 @@
       "y": 0,
       "z": 2,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": -1,
@@ -6867,12 +6538,6 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": 0,
       "y": 14,
       "z": -2,
       "name": "Rock_Stone_Brick"
@@ -6891,9 +6556,9 @@
     },
     {
       "x": 0,
-      "y": 1,
+      "y": 14,
       "z": -1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 0,
@@ -6909,34 +6574,15 @@
     },
     {
       "x": 0,
-      "y": 1,
+      "y": 14,
       "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": 0,
-      "y": 2,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Pink"
-    },
-    {
-      "x": 0,
-      "y": 3,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 0,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 0,
       "y": 15,
       "z": 0,
-      "name": "Furniture_Ancient_Ladder",
-      "rotation": 1
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 0,
@@ -6946,9 +6592,9 @@
     },
     {
       "x": 0,
-      "y": 1,
+      "y": 14,
       "z": 1,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 0,
@@ -6961,12 +6607,6 @@
       "y": 0,
       "z": 2,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": 0,
@@ -7451,6 +7091,12 @@
     },
     {
       "x": 1,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 1,
       "y": 15,
       "z": 0,
       "name": "Rock_Stone_Brick"
@@ -7472,12 +7118,6 @@
       "y": 0,
       "z": 2,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 2,
-      "name": "Rock_Ice_Perpetual_Light_Blue"
     },
     {
       "x": 1,
@@ -7901,6 +7541,12 @@
     },
     {
       "x": 2,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 2,
       "y": 15,
       "z": 0,
       "name": "Rock_Stone_Brick"
@@ -8345,13 +7991,6 @@
     },
     {
       "x": 3,
-      "y": 1,
-      "z": 0,
-      "name": "Furniture_Crude_Torch",
-      "rotation": 1
-    },
-    {
-      "x": 3,
       "y": 14,
       "z": 0,
       "name": "Rock_Stone_Brick"
@@ -10872,12 +10511,6 @@
     },
     {
       "x": 9,
-      "y": 3,
-      "z": -8,
-      "name": "*Wood_Torch_Wall_State_Definitions_Off"
-    },
-    {
-      "x": 9,
       "y": 15,
       "z": -8,
       "name": "Rock_Stone_Brick"
@@ -10911,6 +10544,13 @@
       "y": 0,
       "z": -5,
       "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": -5,
+      "name": "Deco_Target",
+      "rotation": 3
     },
     {
       "x": 9,
@@ -10958,13 +10598,7 @@
       "x": 9,
       "y": 0,
       "z": -1,
-      "name": "Soil_Sand_Black"
-    },
-    {
-      "x": 9,
-      "y": 1,
-      "z": -1,
-      "name": "Fire_Coral_Bush"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 9,
@@ -10976,13 +10610,14 @@
       "x": 9,
       "y": 0,
       "z": 0,
-      "name": "Soil_Sand_Black"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 9,
       "y": 1,
       "z": 0,
-      "name": "Fire_Coral_Bush"
+      "name": "Deco_Target",
+      "rotation": 3
     },
     {
       "x": 9,
@@ -11000,61 +10635,62 @@
       "x": 9,
       "y": 0,
       "z": 1,
-      "name": "Soil_Sand_Black"
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 4,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 9,
       "y": 1,
-      "z": 1,
-      "name": "Fire_Coral_Bush"
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 1,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": 2,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 2,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": 3,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 3,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": 4,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 4,
-      "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 0,
       "z": 5,
-      "name": "Rock_Stone_Brick"
+      "name": "Deco_Target",
+      "rotation": 3
     },
     {
       "x": 9,
@@ -11091,13 +10727,6 @@
       "y": 0,
       "z": 8,
       "name": "Rock_Stone_Brick"
-    },
-    {
-      "x": 9,
-      "y": 3,
-      "z": 8,
-      "name": "*Wood_Torch_Wall_State_Definitions_Off",
-      "rotation": 2
     },
     {
       "x": 9,
@@ -11383,6 +11012,21 @@
     },
     {
       "x": 10,
+      "y": 1,
+      "z": -3,
+      "name": "Tinkering_Target_Dummy",
+      "rotation": 3
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": -3,
+      "name": "Tinkering_Target_Dummy",
+      "filler": 1024,
+      "rotation": 3
+    },
+    {
+      "x": 10,
       "y": 15,
       "z": -3,
       "name": "Rock_Stone_Brick"
@@ -11403,13 +11047,7 @@
       "x": 10,
       "y": 0,
       "z": -1,
-      "name": "Soil_Sand_Black"
-    },
-    {
-      "x": 10,
-      "y": 1,
-      "z": -1,
-      "name": "Fire_Coral_Bush"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 10,
@@ -11421,13 +11059,7 @@
       "x": 10,
       "y": 0,
       "z": 0,
-      "name": "Soil_Sand_Black"
-    },
-    {
-      "x": 10,
-      "y": 1,
-      "z": 0,
-      "name": "Fire_Coral_Bush"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 10,
@@ -11445,13 +11077,7 @@
       "x": 10,
       "y": 0,
       "z": 1,
-      "name": "Soil_Sand_Black"
-    },
-    {
-      "x": 10,
-      "y": 1,
-      "z": 1,
-      "name": "Fire_Coral_Bush"
+      "name": "Rock_Stone_Brick"
     },
     {
       "x": 10,
@@ -11476,6 +11102,21 @@
       "y": 0,
       "z": 3,
       "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 3,
+      "name": "Tinkering_Target_Dummy",
+      "rotation": 3
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 3,
+      "name": "Tinkering_Target_Dummy",
+      "filler": 1024,
+      "rotation": 3
     },
     {
       "x": 10,
@@ -11893,6 +11534,13 @@
     },
     {
       "x": 11,
+      "y": 3,
+      "z": -3,
+      "name": "Wood_Torch_Wall",
+      "rotation": 3
+    },
+    {
+      "x": 11,
       "y": 15,
       "z": -3,
       "name": "Rock_Stone_Brick"
@@ -11968,6 +11616,13 @@
       "y": 0,
       "z": 3,
       "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Torch_Wall",
+      "rotation": 3
     },
     {
       "x": 11,
@@ -12979,6 +12634,12 @@
     },
     {
       "x": 13,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 13,
       "y": 1,
       "z": -3,
       "name": "Rock_Stone_Brick"
@@ -13299,6 +12960,12 @@
       "x": 13,
       "y": 15,
       "z": 2,
+      "name": "Rock_Stone_Brick"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 3,
       "name": "Rock_Stone_Brick"
     },
     {
@@ -14101,13 +13768,6 @@
     },
     {
       "x": -13,
-      "y": 0,
-      "z": 8,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -13,
       "y": 15,
       "z": 8,
       "name": "Empty",
@@ -14115,24 +13775,10 @@
     },
     {
       "x": -13,
-      "y": 0,
-      "z": 9,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -13,
       "y": 15,
       "z": 9,
       "name": "Empty",
       "level": 0
-    },
-    {
-      "x": -13,
-      "y": 0,
-      "z": 10,
-      "name": "Water_Source",
-      "level": 1
     },
     {
       "x": -13,
@@ -15858,6 +15504,13 @@
     },
     {
       "x": -10,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -10,
       "y": 15,
       "z": -3,
       "name": "Empty",
@@ -15900,6 +15553,13 @@
     },
     {
       "x": -10,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -10,
       "y": 15,
       "z": 0,
       "name": "Empty",
@@ -16271,6 +15931,13 @@
     },
     {
       "x": -9,
+      "y": 1,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -9,
       "y": 15,
       "z": -8,
       "name": "Empty",
@@ -16383,6 +16050,13 @@
     },
     {
       "x": -9,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -9,
       "y": 15,
       "z": 0,
       "name": "Empty",
@@ -16873,6 +16547,13 @@
     },
     {
       "x": -8,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -8,
       "y": 15,
       "z": 0,
       "name": "Empty",
@@ -16971,6 +16652,13 @@
     },
     {
       "x": -8,
+      "y": 1,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -8,
       "y": 15,
       "z": 7,
       "name": "Empty",
@@ -17370,6 +17058,13 @@
     },
     {
       "x": -7,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
       "y": 15,
       "z": 0,
       "name": "Empty",
@@ -17454,6 +17149,13 @@
     },
     {
       "x": -7,
+      "y": 1,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -7,
       "y": 15,
       "z": 6,
       "name": "Empty",
@@ -17909,13 +17611,6 @@
     },
     {
       "x": -6,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -6,
       "y": 15,
       "z": 2,
       "name": "Empty",
@@ -18889,13 +18584,6 @@
     },
     {
       "x": -4,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
       "y": 15,
       "z": -1,
       "name": "Empty",
@@ -18925,13 +18613,6 @@
     {
       "x": -4,
       "y": 0,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -4,
-      "y": 1,
       "z": 1,
       "name": "Empty",
       "level": 0
@@ -19421,34 +19102,6 @@
     },
     {
       "x": -3,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
       "y": 15,
       "z": -1,
       "name": "Empty",
@@ -19457,34 +19110,6 @@
     {
       "x": -3,
       "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 2,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 4,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -19512,13 +19137,6 @@
     },
     {
       "x": -3,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
       "y": 15,
       "z": 1,
       "name": "Empty",
@@ -19533,13 +19151,6 @@
     },
     {
       "x": -3,
-      "y": 1,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
       "y": 15,
       "z": 2,
       "name": "Empty",
@@ -19548,13 +19159,6 @@
     {
       "x": -3,
       "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -3,
-      "y": 1,
       "z": 3,
       "name": "Empty",
       "level": 0
@@ -20009,13 +19613,6 @@
     },
     {
       "x": -2,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
       "y": 15,
       "z": -2,
       "name": "Empty",
@@ -20030,34 +19627,6 @@
     },
     {
       "x": -2,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 2,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
       "y": 15,
       "z": -1,
       "name": "Empty",
@@ -20066,97 +19635,6 @@
     {
       "x": -2,
       "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 2,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 10,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 11,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 12,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 13,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -20184,34 +19662,6 @@
     },
     {
       "x": -2,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 2,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
       "y": 15,
       "z": 1,
       "name": "Empty",
@@ -20220,13 +19670,6 @@
     {
       "x": -2,
       "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -2,
-      "y": 1,
       "z": 2,
       "name": "Empty",
       "level": 0
@@ -20709,34 +20152,6 @@
     },
     {
       "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
       "y": 15,
       "z": -1,
       "name": "Empty",
@@ -20745,90 +20160,6 @@
     {
       "x": -1,
       "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 9,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 10,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 11,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 12,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 13,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -20856,34 +20187,6 @@
     },
     {
       "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 2,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
       "y": 15,
       "z": 1,
       "name": "Empty",
@@ -20892,13 +20195,6 @@
     {
       "x": -1,
       "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": -1,
-      "y": 1,
       "z": 2,
       "name": "Empty",
       "level": 0
@@ -21430,13 +20726,6 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
       "y": 14,
       "z": -2,
       "name": "Empty",
@@ -21458,7 +20747,7 @@
     },
     {
       "x": 0,
-      "y": 1,
+      "y": 14,
       "z": -1,
       "name": "Empty",
       "level": 0
@@ -21479,28 +20768,7 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 2,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 3,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 4,
+      "y": 14,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -21521,7 +20789,7 @@
     },
     {
       "x": 0,
-      "y": 1,
+      "y": 14,
       "z": 1,
       "name": "Empty",
       "level": 0
@@ -21536,13 +20804,6 @@
     {
       "x": 0,
       "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 0,
-      "y": 1,
       "z": 2,
       "name": "Empty",
       "level": 0
@@ -22109,6 +21370,13 @@
     },
     {
       "x": 1,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
       "y": 15,
       "z": 0,
       "name": "Empty",
@@ -22131,13 +21399,6 @@
     {
       "x": 1,
       "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 1,
-      "y": 1,
       "z": 2,
       "name": "Empty",
       "level": 0
@@ -22634,6 +21895,13 @@
     },
     {
       "x": 2,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
       "y": 15,
       "z": 0,
       "name": "Empty",
@@ -23146,13 +22414,6 @@
     {
       "x": 3,
       "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 3,
-      "y": 1,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -26099,13 +25360,6 @@
     },
     {
       "x": 9,
-      "y": 3,
-      "z": -8,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
       "y": 15,
       "z": -8,
       "name": "Empty",
@@ -26143,68 +25397,68 @@
       "x": 9,
       "y": 0,
       "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": -5,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": -4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": -3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": -2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": -1,
       "name": "Empty",
       "level": 0
     },
     {
       "x": 9,
       "y": 1,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
       "z": -1,
       "name": "Empty",
       "level": 0
@@ -26253,63 +25507,63 @@
     },
     {
       "x": 9,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 15,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 9,
       "y": 1,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 3,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 15,
-      "z": 4,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 0,
       "z": 5,
       "name": "Empty",
       "level": 0
@@ -26352,13 +25606,6 @@
     {
       "x": 9,
       "y": 0,
-      "z": 8,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 9,
-      "y": 3,
       "z": 8,
       "name": "Empty",
       "level": 0
@@ -26694,6 +25941,20 @@
     },
     {
       "x": 10,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 10,
       "y": 15,
       "z": -3,
       "name": "Empty",
@@ -26722,13 +25983,6 @@
     },
     {
       "x": 10,
-      "y": 1,
-      "z": -1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 10,
       "y": 15,
       "z": -1,
       "name": "Empty",
@@ -26737,13 +25991,6 @@
     {
       "x": 10,
       "y": 0,
-      "z": 0,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 10,
-      "y": 1,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -26771,35 +26018,42 @@
     },
     {
       "x": 10,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 10,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 10,
       "y": 1,
-      "z": 1,
+      "z": 3,
       "name": "Empty",
       "level": 0
     },
     {
       "x": 10,
-      "y": 15,
-      "z": 1,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 10,
-      "y": 0,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 10,
-      "y": 15,
-      "z": 2,
-      "name": "Empty",
-      "level": 0
-    },
-    {
-      "x": 10,
-      "y": 0,
+      "y": 2,
       "z": 3,
       "name": "Empty",
       "level": 0
@@ -27289,6 +26543,13 @@
     },
     {
       "x": 11,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 11,
       "y": 15,
       "z": -3,
       "name": "Empty",
@@ -27374,6 +26635,13 @@
     {
       "x": 11,
       "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 11,
+      "y": 3,
       "z": 3,
       "name": "Empty",
       "level": 0
@@ -28556,6 +27824,13 @@
     },
     {
       "x": 13,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 13,
       "y": 1,
       "z": -3,
       "name": "Empty",
@@ -28929,6 +28204,13 @@
       "x": 13,
       "y": 15,
       "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 3,
       "name": "Empty",
       "level": 0
     },

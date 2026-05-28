@@ -1,11 +1,12 @@
 {
-  "Texture": "NPC/Undead/Ice_Skeleton/Models/Ice_Skeleton.png",
   "DefaultAttachments": [
     {
       "Model": "NPC/Undead/Zombie/Models/Attachments/Head/Eyes.blockymodel",
       "Texture": "NPC/Undead/Zombie/Models/Attachments/Head/Eyes_Blue.png"
     }
   ],
+  "Icon": "Icons/ModelsGenerated/Ice_Skeleton.png",
+  "Texture": "NPC/Undead/Ice_Skeleton/Models/Ice_Skeleton.png",
   "Model": "NPC/Undead/Ice_Skeleton/Models/Model.blockymodel",
-  "Icon": "Icons/ModelsGenerated/Ice_Skeleton.png"
+  "Parent": "Zombie_Frost"
 }

@@ -1,0 +1,99 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Rock_Ice_Perpetual.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Rock_Ice_Perpetual_Purple.png",
+  "Set": "Rock_Ice",
+  "Categories": [
+    "Blocks.Rocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Group": "Ice",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "DropList": "Rock_Ice_Perpetual",
+        "GatherType": "Rocks",
+        "Quality": 999
+      }
+    },
+    "BlockParticleSetId": "Ice",
+    "Textures": [
+      {
+        "All": "BlockTextures/Rock_Ice.png",
+        "Weight": 1
+      }
+    ],
+    "BlockSoundSetId": "Ice",
+    "MovementSettings": {
+      "HorizontalSpeedMultiplier": 1,
+      "Drag": 0.99,
+      "Friction": 0.025,
+      "JumpForceMultiplier": 1
+    },
+    "TransitionTexture": "BlockTextures/Transition_Rock_Ice2.png",
+    "TransitionToGroups": [
+      "Stone",
+      "Grass",
+      "Sand",
+      "Dirt",
+      "Ice",
+      "Gravel"
+    ],
+    "ParticleColor": "#a55cff",
+    "TransitionToTag": "Fluid=Water",
+    "CubeShadingMode": "Standard",
+    "Opacity": "Solid",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Perpetual_Ice_Purple.png"
+      }
+    ],
+    "State": {
+      "Definitions": {
+        "placed": {}
+      }
+    },
+    "CustomModel": "Resources/Textures/Perpetual_Ice_Purple.blockymodel",
+    "Light": {
+      "Color": "#70f",
+      "Radius": 1
+    },
+    "Particles": [
+      {
+        "SystemId": "Example_Glow_Square",
+        "TargetNodeName": "cube",
+        "Color": "#854cff",
+        "Scale": 1.5
+      }
+    ],
+    "RequiresAlphaBlending": false
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Ice"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Rock"
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "State": {}
+}

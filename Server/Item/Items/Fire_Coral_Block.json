@@ -1,0 +1,40 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Coral_Block_Fire.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Fire_Coral_Block.png",
+  "BlockType": {
+    "Textures": [
+      {
+        "Weight": 1,
+        "Sides": "Resources/Fire_Coral_Block_Side.png",
+        "UpDown": "Resources/Fire_Coral_Block_Top.png"
+      }
+    ],
+    "ParticleColor": "#e44545",
+    "TextureComputedColor": "#AC2F31",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Coral",
+        "ItemId": "Fire_Coral_Block"
+      }
+    }
+  },
+  "Model": "Resources/Textures/Coral_Block.blockymodel",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Categories": [
+    "Blocks.Rocks"
+  ],
+  "SubCategory": "Coral"
+}
